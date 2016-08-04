@@ -1,0 +1,28 @@
+_repo: In-the-Days-When-the-World-Was-Wide-and-Other-Verses_214
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawson, Henry
+    alias: Lawson, Henry Archibald Hertzberg
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '119'
+    url: http://www.gutenberg.org/2009/agents/119
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Lawson
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2008-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Australia -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Australian poetry'
+- GITenberg
+title: In the Days When the World Was Wide, and Other Verses
+url: http://www.gutenberg.org/ebooks/214
